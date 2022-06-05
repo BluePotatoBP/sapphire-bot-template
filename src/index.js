@@ -1,5 +1,4 @@
 require("dotenv").config();
-require('@sapphire/plugin-editable-commands/register');
 const { SapphireClient, BucketScope, LogLevel } = require('@sapphire/framework');
 const { Time } = require('@sapphire/time-utilities');
 
