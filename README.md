@@ -1,8 +1,7 @@
 
 # Sapphire Bot 
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 
-BOT is a Discord bot written in JS using [Discord.JS](https://discord.js.org/#/) and [Sapphire](https://www.sapphirejs.dev/)
+This is a discord bot written in JS using NodeJS and the [Sapphire](https://www.sapphirejs.dev/) framework, mostly for testing.
 
 
 ## Run Locally
@@ -10,7 +9,7 @@ BOT is a Discord bot written in JS using [Discord.JS](https://discord.js.org/#/)
 Clone the project
 
 ```bash
-  git clone https://github.com/BluePotatoBP/sapphire-bot-temp-name
+  git clone https://github.com/BluePotatoBP/sapphire-test
 ```
 
 Go to the project directory
@@ -41,15 +40,3 @@ To run the bot, you will need to create a .env file with the following environme
 `OWNERS=ID` (if theres multiple owners separate with ,)
 
 `PREFIX=.` (default)
-
-
-## Authors
-
-- [@BluePotatoBP](https://www.github.com/octokatherine)
-- [@JBTech-JT](https://github.com/jbtech-jt)
-
-
-## Feedback/Support
-
-If you have any feedback or support, please join our discord server here. (coming soon)
-
